@@ -7,8 +7,8 @@ class Calculator:
 
         return a+b
 
-    def subtracao(self):
-        pass
+    def subtracao(self, a, b):
+        return a + b
 
     def multiplicacao(self):
         pass
